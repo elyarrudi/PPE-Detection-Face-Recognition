@@ -1,0 +1,33 @@
+
+# Models (too large)
+models/
+models/*.pth
+models/*.pt
+models/*.onnx
+models/*.pb
+
+
+# User data
+FaceRecognition/database/
+FaceRecognition/register_images/
+input_video/
+output_video/
+
+
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+env/
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
