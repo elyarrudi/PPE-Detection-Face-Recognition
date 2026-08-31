@@ -11,6 +11,12 @@ Example videos demonstrating the model's performance:
 
 These videos show the model detecting PPE objects, tracking individuals across frames, and associating recognized faces with detected helmets and heads in real workplace scenarios.
 
+### Note About `sample_output1.mp4`
+
+The video `sample_output1.mp4` was downloaded from the internet and is used only as a demonstration input for the pipeline.
+
+The people appearing in this video were not registered in the face-recognition database. Therefore, the face-recognition module identifies them as **`Unknown`** because no matching registered face was available for these individuals.
+
 ## What This Project Does
 
 For every frame of an input video, the application performs the following workflow:
