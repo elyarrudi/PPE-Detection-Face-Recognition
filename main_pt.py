@@ -30,7 +30,7 @@ parser.add_argument("--reid", action="store_true", help="Enable ReID")
 args = parser.parse_args()
 
 FACE_DETECTION_INTERVAL = 20
-PPE_SIZE = 320 if device == "cpu" else 480
+PPE_SIZE =640
 FACE_SIZE = 160 if device == "cpu" else 320
 CONF_THRESHOLD = 0.35
 IOU_THRESHOLD = 0.3
