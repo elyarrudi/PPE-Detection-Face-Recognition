@@ -153,7 +153,7 @@ A comprehensive evaluation was performed on the validation set (457 images, 1,17
 - F1 Score : **0.5755**
 
 and you can see the image ( metrics_per_class.png and  detection_results.png) in this folder: /training
-
+overall result of stage 4 :(ppe\training\result_stage_4.txt)
 ---
 
 **Code-Level Matching Logic**
