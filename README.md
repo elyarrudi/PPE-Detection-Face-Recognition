@@ -1,5 +1,29 @@
 **PPE Detection, Multi-Object Tracking, and Face Recognition**
 
+**Project Goal**
+
+The goal of this project is to analyze workplace-safety videos: detect PPE-related objects (`helmet`, `head`, `body`, `vest`), track them across frames, optionally match registered faces to head/helmet detections, and write an annotated MP4. It is a video-processing pipeline for demonstration, research, and offline inspection of recorded footage.
+
+**What This Project Does Not Do**
+
+- It does not run a live camera dashboard, web UI, or public API.
+- It does not send alarms, SMS, emails, or automatic compliance reports.
+- It does not identify people who are not registered in the local face database (they are labelled `Unknown`).
+- It does not detect other PPE types such as gloves, boots, or goggles.
+- It does not claim production-grade or legally certified safety accuracy.
+
+**Sample Output Images**
+
+Example frames from the pipeline (files in the project root):
+
+![Sample 1](1.png)
+
+![Sample 2](2.png)
+
+![Sample 3](3.png)
+
+![Sample 4](4.png)
+
 An end-to-end computer vision pipeline for workplace-safety video analysis. The application detects PPE-related objects, tracks them across video frames, and optionally assigns registered identities to detected people.
 
 **Sample Output Videos**
