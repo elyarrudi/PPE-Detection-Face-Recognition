@@ -14,12 +14,9 @@ The goal of this project is to analyze workplace-safety videos: detect PPE-relat
 
 **Sample Output Videos**
 
-<table>
-  <tr>
-    <td><img src="main_sample_output.gif" alt="Main sample output animation" width="280"></td>
-    <td><img src="sample_output1.gif" alt="Additional sample output animation" width="400"></td>
-  </tr>
-</table>
+<img src="main_sample_output.gif" alt="Main sample output animation" width="280">
+
+<img src="sample_output1.gif" alt="Additional sample output animation" width="400">
 
 **Sample Output Images**
 
