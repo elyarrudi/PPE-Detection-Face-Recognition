@@ -12,9 +12,14 @@ The goal of this project is to analyze workplace-safety videos: detect PPE-relat
 - It does not detect other PPE types such as gloves, boots, or goggles.
 - It does not claim production-grade or legally certified safety accuracy.
 
-**Sample Output Video**
+**Sample Output Videos**
 
-![Sample output animation](main_sample_output.gif)
+<table>
+  <tr>
+    <td><img src="main_sample_output.gif" alt="Main sample output animation" width="280"></td>
+    <td><img src="sample_output1.gif" alt="Additional sample output animation" width="400"></td>
+  </tr>
+</table>
 
 **Sample Output Images**
 
