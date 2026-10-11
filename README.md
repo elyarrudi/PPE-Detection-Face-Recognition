@@ -14,7 +14,7 @@ The goal of this project is to analyze workplace-safety videos: detect PPE-relat
 
 **Sample Output Video**
 
-https://github.com/user-attachments/assets/39c80c26-3790-41b9-8bf4-b85aeb0f37e1
+![Sample output animation](main_sample_output.gif)
 
 **Sample Output Images**
 
